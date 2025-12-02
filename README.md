@@ -1,6 +1,9 @@
-# 💫 About Me:
-🔭 I’m currently working on Django<br>👯 I’m looking to collaborate on IOS App & Android App Testing<br>🌱 I’m currently learning Flutter, IOS development<br>💬 Ask me about Competitive Programming<br>⚡ Fun fact - I can do mimicry.
+# Hi, I'm Nasir Uddin 👋
 
+- 🔭 I’m currently working on MediCare (Digital Healthcare System)
+- 🌱 Learning Next.js, Node.js, Prisma, DevOps and ML & DL
+- 💬 Ask me about Web Development & Database Design
+- ⚡ Fun fact: I love problem-solving!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/arif11866/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mdariful482/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ariful-islam-17b467249/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/19778344/ariful-islam) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCwlquSIx_gdJOzbJqwyl6gA) 
