@@ -1,7 +1,7 @@
 # Hi, I'm Nasir Uddin 👋
 
-- 🔭 I’m currently working on MediCare (Digital Healthcare System)
-- 🌱 Learning Next.js, Node.js, Prisma, DevOps and ML & DL
+- 🔭 I’m currently working on MediCare (Digital Online Healthcare System)
+- 🌱 Learning Next.js, Node.js, Prisma, DevOps and AL & ML
 - 💬 Ask me about Web Development & Database Design
 - ⚡ Fun fact: I love problem-solving!
 
